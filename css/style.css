@@ -6,6 +6,6 @@
   margin: 10px 0;
 }
 
-body {
+body, #about, #my-work, #contact-me {
   padding-top: 70px;
 }
